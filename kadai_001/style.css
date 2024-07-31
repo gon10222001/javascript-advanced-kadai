@@ -30,11 +30,11 @@ body {
   background-color: red;
 }
 
-/* タイプした文字数のカウント 2024/07/31 add-str */
+/* 正タイプ数表示 2024/07/31 add-str */
 .typedcnt {
   margin: 0;
   font-weight: bold;
   color: #888;
   display: none;
 }
-/* タイプした文字数のカウント 2024/07/31 add-end */
+/* 正タイプ数表示ト 2024/07/31 add-end */
